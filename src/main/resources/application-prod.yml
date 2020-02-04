@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3307/onganimal
-    username: dev
-    password: 123
+    url: jdbc:mysql://spvunyfm598dw67v.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/s5lbi8cbseijrits
+    username: w61njuyj58mcgt8s
+    password: cd548skks04xegg4
   
   jpa:
     properties:
